@@ -7,3 +7,4 @@ Funnier than that is to think if I (we) can finish it before he done it so he ca
 
 # States of the project:
 - **06 - Jan - 2023 -** It's a readme file.
+  - 14:32 (Brazil) - You can write a line and save it on the same folder as output.txt.
